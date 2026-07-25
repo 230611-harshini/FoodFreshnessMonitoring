@@ -1,4 +1,4 @@
-# 🍎 Food Freshness Monitoring System
+#  Food Freshness Monitoring System
 
 An AI-powered Food Freshness Monitoring System that classifies food items as **Fresh** or **Spoiled** using Deep Learning. The application also provides an estimated shelf-life and includes a user-friendly web interface for image upload and prediction.
 
