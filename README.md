@@ -44,6 +44,11 @@ An AI-powered Food Freshness Monitoring System that classifies food items as **F
 
 ---
 
+### Dataset
+https://www.kaggle.com/datasets/maheen00shahid/fresh-and-spoiled-food-image-dataset
+
+---
+
 ## 📂 Project Structure
 
 ```
