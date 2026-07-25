@@ -1,0 +1,27 @@
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/
+
+# Trained models
+models/
+*.pth
+*.pt
+
+# Generated files
+uploads/
+outputs/
+results/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
